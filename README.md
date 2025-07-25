@@ -37,9 +37,8 @@ Welkom op mijn GitHub-profiel! Ik ben een gepassioneerde MBO Software Developmen
 
 ## 📫 Contact
 
-- 📧 Mail: ayden@example.com *(vervang dit met je echte mail als je wil)*
-- 🌐 Portfolio: [ayden.dev](https://example.com) *(indien je een domein hebt)*
-- 💬 LinkedIn: [linkedin.com/in/aydenhoppener](https://linkedin.com/in/aydenhoppener) *(indien beschikbaar)*
+- 📧 Mail: aydenhoppener123@gmail.com
+- 💬 LinkedIn: [https://www.linkedin.com/in/ayden-h%C3%B6ppener-8a186a253]
 
 > “Great things are done by a series of small things brought together.” – *Vincent van Gogh*
 
