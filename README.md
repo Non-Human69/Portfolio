@@ -8,11 +8,11 @@ Welkom op mijn GitHub-profiel! Ik ben een gepassioneerde MBO Software Developmen
 
 ## 🔧 Skills & Technologieën
 
-- 🖥️ Talen: **JavaScript**, **PHP**, **Python**, **C#**
-- 🌐 Web: **HTML**, **CSS**, **Laravel**, **React**, **Tailwind CSS**
-- 🎮 Games: **Unity**, **Godot**
-- 🐳 DevOps: **Docker**, **GitHub Actions**, **CI/CD**
-- 🗃️ Tools: **Git**, **VS Code**, **Figma**, **Trello**
+- 🖥️ Talen: **PHP**, **Python**, **C#**
+- 🌐 Web: **HTML**, **CSS**, **Laravel**, **Tailwind CSS**
+- 🎮 Games: **Unity**
+- 🐳 DevOps: **Docker**, **GitHub Actions**
+- 🗃️ Tools: **Git**, **VS Code**, **Figma**, **Trello**, **Jetbrains**
 
 ---
 
@@ -20,15 +20,14 @@ Welkom op mijn GitHub-profiel! Ik ben een gepassioneerde MBO Software Developmen
 
 | Project | Beschrijving | Tech |
 |--------|--------------|------|
-| 🎵 Just Shapes and Lights | Een rhythm-bullethell game waarin je als geometrische vorm obstakels ontwijkt op muziek | Godot, GDScript |
-| 🌐 Laravel Docker Setup | Laravel app automatisch builden en deployen via Docker en GitHub Actions | Laravel, Docker |
-| 📔 Reflectie App | Persoonlijke reflectie-app voor school met timestamping en filtering | Python, SQLite |
+| 🎵 Just Shapes and Lights | Een rhythm-bullethell game waarin je als geometrische vorm obstakels ontwijkt op muziek | Unity, C# |
+-to add
 
 ---
 
 ## 🚀 Doelen
 
-- Mijn eigen game publiceren op Itch.io
+- Goed gebruik van AI in de werkomgeving
 - Leren werken met AI in games
 - Front-end en back-end beter combineren in grotere projecten
 - Meer bijdragen aan open-source projecten
@@ -38,7 +37,7 @@ Welkom op mijn GitHub-profiel! Ik ben een gepassioneerde MBO Software Developmen
 ## 📫 Contact
 
 - 📧 Mail: aydenhoppener123@gmail.com
-- 💬 LinkedIn: [https://www.linkedin.com/in/ayden-h%C3%B6ppener-8a186a253]
+- 💬 LinkedIn: https://www.linkedin.com/in/ayden-h%C3%B6ppener-8a186a253
 
 > “Great things are done by a series of small things brought together.” – *Vincent van Gogh*
 
